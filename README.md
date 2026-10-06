@@ -1,7 +1,7 @@
 # Full Spectrum — Spectra 2026 Group Build Event 🎓⏱️
-## Project: CampusDeadline
+## Project: DEADLINEO
 
-> **CampusDeadline turns scattered personal and group academic deadlines into one early-warning system that tells students what is coming, what is risky, and what they should do next.**
+> **DEADLINEO turns scattered personal and group academic deadlines into one early-warning system that tells students what is coming, what is risky, and what they should do next.**
 
 ---
 
